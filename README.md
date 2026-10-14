@@ -4,11 +4,11 @@ This repository documents my ongoing Power BI learning journey through a structu
 
 Completed Courses
 
-1. Preparing Data for Analysis with Microsoft Excel
-   - Certificate: [View Certificate]((https://www.coursera.org/account/accomplishments/verify/CO1C5UTUA3IY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse))
+•	Preparing Data for Analysis with Microsoft Excel
+Certificate: [View Certificate](https://www.coursera.org/account/accomplishments/verify/CO1C5UTUA3IY?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 
-2. •	Harnessing the Power of Data with Power BI
-   - Certificate: [View Certificate]((https://www.coursera.org/account/accomplishments/verify/FESZ63IS9IPA?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse))
+•	Harnessing the Power of Data with Power BI
+Certificate: [View Certificate](https://www.coursera.org/account/accomplishments/verify/FESZ63IS9IPA?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)
 
 Learning Source
 
